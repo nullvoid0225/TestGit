@@ -1,0 +1,10 @@
+C:\CSharpProject\Chap08\mook_PortScanner\mook_PortScanner\bin\Debug\mook_PortScanner.exe.config
+C:\CSharpProject\Chap08\mook_PortScanner\mook_PortScanner\bin\Debug\mook_PortScanner.exe
+C:\CSharpProject\Chap08\mook_PortScanner\mook_PortScanner\bin\Debug\mook_PortScanner.pdb
+C:\CSharpProject\Chap08\mook_PortScanner\mook_PortScanner\obj\Debug\mook_PortScanner.csprojResolveAssemblyReference.cache
+C:\CSharpProject\Chap08\mook_PortScanner\mook_PortScanner\obj\Debug\mook_PortScanner.Form1.resources
+C:\CSharpProject\Chap08\mook_PortScanner\mook_PortScanner\obj\Debug\mook_PortScanner.Properties.Resources.resources
+C:\CSharpProject\Chap08\mook_PortScanner\mook_PortScanner\obj\Debug\mook_PortScanner.csproj.GenerateResource.Cache
+C:\CSharpProject\Chap08\mook_PortScanner\mook_PortScanner\obj\Debug\mook_PortScanner.exe
+C:\CSharpProject\Chap08\mook_PortScanner\mook_PortScanner\obj\Debug\mook_PortScanner.pdb
+C:\CSharpProject\Chap08\mook_PortScanner\mook_PortScanner\obj\Debug\mook_PortScanner.csproj.CoreCompileInputs.cache
